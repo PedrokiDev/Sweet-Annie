@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&display=swap');
+
+* {
+    font-family: 'Delius Swash Caps', cursive, Arial;
+}
+
+.navbar-brand {
+    font-size: 30px;
+}
+
+.mr-3 {
+    max-height: 40px;
+    padding-bottom: 13px;
+}
+
+.intro h1 {
+    font-size: 55px;
+    padding-top: 45px;
+    padding-left: 180px;
+}
+
+.intro p {
+    padding-top: 10px;
+    padding-left: 250px;
+}
+
+.carousel {
+    max-width: 900px;
+    padding-top: 40px;
+    padding-left: 105px;
+}
+
+.historia {
+    padding-top: 150px;
+}
+
+.historia p {
+    padding-top: 30px;
+}
+
+.contatos {
+    padding-top: 50px;
+}
+
+.contatos a {
+    text-decoration: none;
+}
